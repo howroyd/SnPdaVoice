@@ -25,7 +25,7 @@ function App() {
 function TopBar() {
   return (
   <div className="topnav">
-    <h2 className="top-header">Subnautica PDA Voice Generator by Lee23</h2>
+    <h2 className="top-header">Subnautica PDA Voice Generator by Kallie23</h2>
     <div className="nav-links">
       <a href="https://ko-fi.com/lee23" target="_blank" rel="noopener noreferrer">
         <img
